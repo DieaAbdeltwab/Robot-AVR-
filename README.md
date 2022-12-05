@@ -1,4 +1,4 @@
-# Robot-AVR-
+# Robot (AVR)
 # Robot has four modes
 ## 1-Control Mode
 ## 2-Line Forward Mode
@@ -9,7 +9,7 @@
 ## in IMT Embedded System diploma .
 ## - ATMEGA32 Microcontroller .
 ----------------------------------------------------------------------
-#--->>Drivars
+# --->>Drivars
 ## ***  MCAL Layer 
 ## - DIO
 ## - TIMERS
